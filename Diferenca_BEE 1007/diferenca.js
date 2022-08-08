@@ -9,3 +9,4 @@ let D = parseInt(valores.shift());
 let DIFERENCA = (A*B) - (C*D);
 
 console.log(`DIFERENCA = ${DIFERENCA}`)
+
